@@ -1,0 +1,30 @@
+C:\Users\ericb\Documents\Visual Studio\Projects\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.exe
+C:\Users\ericb\Documents\Visual Studio\Projects\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.deps.json
+C:\Users\ericb\Documents\Visual Studio\Projects\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.json
+C:\Users\ericb\Documents\Visual Studio\Projects\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.dev.json
+C:\Users\ericb\Documents\Visual Studio\Projects\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.dll
+C:\Users\ericb\Documents\Visual Studio\Projects\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.pdb
+C:\Users\ericb\Documents\Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.Form1.resources
+C:\Users\ericb\Documents\Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csproj.GenerateResource.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfoInputs.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfo.cs
+C:\Users\ericb\Documents\Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.dll
+C:\Users\ericb\Documents\Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.pdb
+C:\Users\ericb\Documents\Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.genruntimeconfig.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csprojAssemblyReference.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.exe
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.deps.json
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.json
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.dev.json
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.dll
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.pdb
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.Form1.resources
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csproj.GenerateResource.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfoInputs.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfo.cs
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csproj.CoreCompileInputs.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.dll
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.pdb
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.genruntimeconfig.cache
